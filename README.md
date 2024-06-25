@@ -2,13 +2,13 @@
 <img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
 
-## MS.JESSICA
+## MS.SARAZU
 
 > Bot Written By @Mr.White Shadow with Baileys. Jessi has a lot of Features/Commands Including Voice Chat [ AI ]
 .
 ----
 
-### ⏱️ Jessi-md Installation 
+### ⏱️ Sarazu-md Installation 
 
 Qr Setup
 
